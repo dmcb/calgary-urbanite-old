@@ -464,6 +464,10 @@ div.rightblock a {
     color: #D5639F;
 }
 
+div.rightblock ul {
+    margin-top: 8px;
+}
+
 div.block_title {
     height: 40px;
 }
@@ -540,7 +544,12 @@ div.post img.postimage {
     margin: 0 0 0 10px;
     background-color: #555555;
     max-width: 240px;
+}
 
+div.post:after {
+    content:"";
+    display:table;
+    clear:both;
 }
 
 div.comment {

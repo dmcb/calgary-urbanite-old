@@ -30,8 +30,8 @@
           <div class="sidebar">
             <h2>Navigation</h2>
             <ul>
-              <li><a href="http://old.calgaryurbanite.com/blog">Featured posts (26)</a></li>
-              <li><a href="http://old.calgaryurbanite.com/blog/all">All posts (30)</a></li>
+              {% if page.previous %}<li>Previous article:<br/><a href="{{ page.previous.url }}">{{ page.previous.title }}</a></li>{% endif %}
+              {% if page.next %}<li>Next article:<br/><a href="{{ page.next.url }}">{{ page.next.title }}</a></li>{% endif %}
             </ul>
           </div>
         </div>
