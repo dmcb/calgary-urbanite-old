@@ -4,13 +4,13 @@ image:
 author: Shannon Curry
 ---
 <p>Death, my Buddhist teacher likes to remind me, is a natural part of life. This is true until you get buried or cremated. At that point the multi-billion dollar funeral industry takes over, providing the deceased with satin-lined wood coffins festooned with brass accents (for the discriminating loved one), cement gravestones, cement liners and a little eau de formaldehyde and other toxins to preserve the glow of the living.</p><!-- pagebreak -->
-<p><img style="float: left;" src="../file/post/pushing_daisies_death_goes_green/daisies.jpg" alt="" />Then the wasteland of hazardous chemicals and non-biodegradable materials that is the cemetery where you lay is mowed and watered, fertilized and sprayed with pesticides. Gravestones fall into disrepair and the cemetery fills up like a tin of sardines.</p>
+<p><img style="float: left;" src="/file/post/pushing_daisies_death_goes_green/daisies.jpg" alt="" />Then the wasteland of hazardous chemicals and non-biodegradable materials that is the cemetery where you lay is mowed and watered, fertilized and sprayed with pesticides. Gravestones fall into disrepair and the cemetery fills up like a tin of sardines.</p>
 
 <p>I&rsquo;ve always said that I want to be cremated, thinking it was a greener option. But according to an article published in <a href="http://www2.canada.com/vancouversun/news/westcoastnews/story.html?id=9a26ef16-f31b-4cda-b23f-b49bef61c18c" target="_blank">the Vancouver Sun </a>180 litres of gasoline is used to stoke the fires for every corpse that goes up in smoke&nbsp;and chemicals like carbon monoxide, sulphur dioxide and persistent organic pollutants are released into the air that we, the living, breathe.</p>
 <p>Green burials are becoming <em>de rigueur</em> in response to this deathly problem. Here&rsquo;s a brief how-to for performing a green burial:</p>
 <p>&nbsp;</p>
 <ul>
-<img style="float: right;" src="../file/post/pushing_daisies_death_goes_green/coffin.jpg" alt="" width="311" height="480" />
+<img style="float: right;" src="/file/post/pushing_daisies_death_goes_green/coffin.jpg" alt="" width="311" height="480" />
 <li>Purchase <a href="http://www.ecopod.co.uk/" target="_blank">an eco-pod</a> made of recycled newspapers or a coffin made from locally sourced wood</li>
 <li>Eschew regular toxic preservatives like formaldehyde in favour of non-toxic organic preservatives. Or forgo preservatives altogether in favour of the natural &ldquo;dead&rdquo; look. (Note: this will reduce the viewing time.)</li>
 <li>Select a natural marker such as a native tree or shrub, or a flat engraved, indigenous rock</li>
