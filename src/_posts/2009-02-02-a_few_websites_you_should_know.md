@@ -1,0 +1,13 @@
+---
+title: "A few websites you should know!"
+image:
+---
+<p>I'm going to do a couple of shameless plugs for a couple of websites that are definitely worthy of your time.&nbsp; You've probably heard of these sites, but if you haven't, I'm here to help spread the word, because they should be common knowledge for every Calgarian.</p>
+<!-- pagebreak -->
+<p><a href="http://www.meetup.com/green-drinks-calgary/">Green Drinks Calgary</a><br />So I'm probably not yet qualified to talk about this one, as I'm still awaiting going to my first little shin dig, but I just found out about it and sounds like a great idea.  I'll let them explain:</p>
+<blockquote>Green drinks is an open-format, no-agenda, monthly event for those interested in the environment to get together, to meet with friends, meet new people, or learn something new.</blockquote>
+<p><a href="http://ca.groups.yahoo.com/group/freecyclecalgary/">Freecycle Calgary</a><br />Freecycle Calgary is a trading site where people post items they are offering to give away.&nbsp; As they put it:</p>
+<blockquote>Freecycle&trade; Calgary is an opportunity for people in and around Calgary, Alberta to improve their own lives and the lives of others by passing on their "trash" to those who would find it "treasure".</blockquote>
+<p>I don't know about you, but I absolutely hate throwing out anything that still appears to have any use, so I've hung on to some old video games, phones, cameras, all that stuff, because it obviously doesn't belong in the garbage dump.&nbsp; So this site comes highly recommended, as you get to get rid of your junk and get a warm fuzzy feeling.&nbsp; I just found out about this site, so I figure I had to spread the word in case there are others living under a rock like me.</p>
+<p><a href="http://calgary.en.craigslist.ca/">Craigslist Calgary</a><br />Well if you hadn't heard of Freecycle, I'm sure you've heard of Craigslist, which has become somewhat of a household name these days.&nbsp; It's pretty much just a digital version of the classifieds.&nbsp; Like Freecycle, it's a great place to pawn used stuff.&nbsp; Unlike Freecycle, you can set a price for your wares and barter with people, though there is a popular free section to take advantage of aswell.</p>
+<p><div class="side"><h3>Download:</h3><p><a href="../file/post/a_few_websites_you_should_know/freecyclecalgary.doc">freecyclecalgary.doc</a><br/></p></div>I'm sure there's a ton of other Calgary sites for this sort of thing.&nbsp; Post ones you know about!</p>
