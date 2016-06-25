@@ -1,6 +1,6 @@
 ---
 title: "Imagine voting everyday"
-image:
+image: vanilla_almond_or_red_berry.jpg
 ---
 <p>Imagine voting everyday.&nbsp; Terrible thought isn't it?&nbsp; Well I hate to break it to you, but that is exactly what we are doing, except for maybe those lazy Sundays where even rolling out of bed seems like an insurmountable challenge.&nbsp; But before I start thinking about the weekend, I have to finish this article as it's something I've discussed a bunch lately but never put the pen to the page on, er, keyboard to the (web)page.&nbsp; We vote every single day.&nbsp; It's like a federal election every 24 hours, except with <a href="http://en.wikipedia.org/wiki/Canadian_federal_election_2008#Voter_turnout">higher turnout</a>.&nbsp; Allow me to explain...</p><!-- pagebreak -->
 <p>Every day, we vote with our dollars.&nbsp; Everything we buy (or don't buy), is a statement.&nbsp; Sometimes we make strong statements with our purchases, say, picking fair trade chocolate instead of the regular stuff.&nbsp; Other times, it's less inspiring, say choosing a 42" tv over a 40".&nbsp; But either way, a vote is being made.&nbsp; You just told Nestl&eacute; to stuff it, and you just told Toshiba that bigger really is better.&nbsp; And guess what?&nbsp; Toshiba and Nestl&eacute; are listening to you, they're counting the ballots and seeing if the people elected them to another term of profitability.</p>

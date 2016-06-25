@@ -1,6 +1,6 @@
 ---
 title: "In defense of Calgary Transit"
-image:
+image: rush_hour.jpg
 ---
 <p>There's probably two things you can talk to any Calgarian about to fit in.&nbsp; The first is the weather.&nbsp; You can fit in with any Calgarian talking about the weather because you can make statements and get an expected response back, like they were an old friend.&nbsp; "Man, this winter just never ends" usually yields a "No kidding".&nbsp; It feels good to know what a stranger in the elevator or at the checkout will most likely say... it's like you <em>get them</em>.&nbsp; You suddenly have confidence talking to members of the opposite sex that you never had before because you know they'll appreciate your anecdote about how the weather sucks here (getting to a new line of conversation after the weather is the tricky part, and I wish all CalgaryUrbanite readers good luck in your romantic endeavours).&nbsp; <br /><br />The other sure fire line of conversation on which Calgarians relate is of course, our public transit.</p>
 <!-- pagebreak -->

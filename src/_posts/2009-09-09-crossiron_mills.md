@@ -1,6 +1,6 @@
 ---
 title: "CrossIron Mills: A Fairy Tale"
-image:
+image: food_court.jpg
 ---
 <p>Alberta hasn't had a new shopping mall built in twenty years.&nbsp; This isn't because Albertans hate shopping malls, quite the contrary, our malls are some of the most popular locations in the province.&nbsp; The lack of new shopping malls in Alberta boils down to (like so many other things) making money.&nbsp; Shopping malls are expensive to build and strip mall retail centers are considerably cheaper.&nbsp; Sure, they lack roofs and you have to drive from one end to another just to get to all the stores, but the people will still come, enclosed mall or not.&nbsp; Why?&nbsp; Because with developers building poorly designed suburbs in search of a better bottom line and people looking to live in a house a little bigger than their means buying into them, these strip malls are often the only shopping available that is anywhere near.&nbsp; Everyone wins, well, except your gas tank, and the environment.&nbsp; But you get a quiet neighbourhood and the developers maximize their profits.<br /><br />When I found out CrossIron Mills was defying the trend and being built as an enclosed shopping mall, I got excited.</p><!-- pagebreak -->
 <blockquote><img src="/file/post/crossiron_mills/food_court.jpg" alt="" /><br />Clearly I wasn't the only one to get excited.</blockquote>

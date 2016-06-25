@@ -1,6 +1,6 @@
 ---
 title: "Pushing Daisies: Death Goes Green"
-image:
+image: daisies.jpg
 author: Shannon Curry
 ---
 <p>Death, my Buddhist teacher likes to remind me, is a natural part of life. This is true until you get buried or cremated. At that point the multi-billion dollar funeral industry takes over, providing the deceased with satin-lined wood coffins festooned with brass accents (for the discriminating loved one), cement gravestones, cement liners and a little eau de formaldehyde and other toxins to preserve the glow of the living.</p><!-- pagebreak -->

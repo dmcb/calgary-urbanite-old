@@ -1,6 +1,6 @@
 ---
 title: "No one said this would be easy!"
-image:
+image: the_bill.jpg
 ---
 <p>Sometimes making the right decisions to help out the environment can be easy.&nbsp; Sometimes it's tough.</p>
 <p>A couple weeks ago, I posted a review of the Beat Niq criticizing the practice of only providing bottled water.&nbsp; Gerry Hebert, artistic director at Beat Niq responded about why their hand is forced on the issue.  I appreciate him being forth coming with explaining the concerns and challenges the Beat Niq faces in providing their entertainment while maintaining some level of profitability.&nbsp; It's easy to forget about the real challenges businesses face when we see practices that don't fit in with our ideal world.</p>

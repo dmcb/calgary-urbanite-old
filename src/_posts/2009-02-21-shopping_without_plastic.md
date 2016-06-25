@@ -1,6 +1,6 @@
 ---
 title: "Shopping without Plastic"
-image:
+image: plastic_bag_selection.jpg
 ---
 <p>...Plastic bags that is.&nbsp; I still very much need my debit &amp; credit cards to go grocery shopping.</p>
 <p>As you may or may not know, city council has been looking at the possibility of banning plastic bags at store check outs.&nbsp; Now we all know why plastic bags are bad: they don't degrade for hundreds and hundreds of years, except their chemicals photo degrade and leech into the eco system and ultimately our food chain; 4 to 5 trillion bags are used each year filling our landfills and <a href="http://www.vbs.tv/video.php?id=1485308505">our oceans</a> (and in many places they fill the streets); they require oil to be produced only to be thrown away; all that bad stuff.&nbsp; If you didn't know why plastic bags are bad, now you're up to speed.&nbsp; I'm here to talk about a possible future without plastic bags.</p>

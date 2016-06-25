@@ -1,6 +1,6 @@
 ---
 title: "Peace Bridge Conflict"
-image:
+image: peace_bridge.jpg
 ---
 <p>So, I have set out to write the best post I have ever written.&nbsp; No pressure or anything. Why?&nbsp; Well, it's been an absolutely ridiculous amount of time since my last article here at CalgaryUrbanite, and although we have some other great contributors on the site, things have to been too slow around these parts for my liking.&nbsp; So I need a stylish comeback.&nbsp; Something with gusto.&nbsp; Something with pizzaz.&nbsp; Something with a lot of other pseudo-adjectives.&nbsp; How am I going to do this? Well, I've compiled a list of everything I'd like to see from a comeback post.</p>
 <p>Ironic title?&nbsp; Check.<br />Tackling an issue that Calgarians seem opinionated about?&nbsp; Check.<br />Being able to include a photograph I've randomly taken on my travels?&nbsp; Check.<br />Having a completely irreverent opening paragraph?&nbsp; Check.<br />Seriously, the most irreverent paragraph ever, probably enough to turn most people off reading this article?&nbsp; Check.<br />Using the word <em>irreverent</em>?&nbsp; Check.<br /><br />Shall we get down to business?</p><!-- pagebreak -->

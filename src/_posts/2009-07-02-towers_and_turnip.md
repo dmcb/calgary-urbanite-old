@@ -1,6 +1,6 @@
 ---
 title: "Towers and Turnip: Commmunity Gardening in Calgary"
-image:
+image: community_garden.jpg
 author: Shannon Curry
 ---
 <p>A few weeks ago I took part in a unique gardening project. Volunteers with the Calgary Food Policy Council (CFPC) and other individuals like myself met downtown on the corner of 6th Ave and 3rd Street SW and proceeded to plant a vegetable garden in the flower beds.<br /><br />What would have been space for ornamental flowers instead became space for food: squash, carrots, lettuce, beets, beans and more. Once the seeds we planted grow into hearty produce the CFPC will take it to the food bank, so their patrons can enjoy fresh, local produce, produced right in the heart of the city.</p>

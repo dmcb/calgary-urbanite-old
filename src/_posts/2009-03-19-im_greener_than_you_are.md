@@ -1,6 +1,6 @@
 ---
 title: "I'm Greener Than You Are"
-image:
+image: little_boy_looking_guilty.jpg
 author: Shannon Curry
 ---
 <p>I'm Greener Than You Are: The Perils Of Feeling Not Good Enough Because You're Not Green Enough<br /><br />Last fall I went on a trip to Hawaii. I&rsquo;d always wanted to go there and it was pretty much everything I had hoped for: sun, ocean, beach, beautiful vistas, great food, great people and all around pure indulgence. When I got back I was chatting about the trip with a friend who is one of Calgary&rsquo;s most active activists. Slowly my happiness with the trip turned a bit sour, and I realized I was feeling guilty for emitting all those CO<sub>2</sub> molecules during my many flights (seven in total there, between islands and back). I wasn't&nbsp;there for business purposes, or to plant trees or save turtles; it was just a vacation for my own pleasure and benefit. Green guilt loomed large.</p>

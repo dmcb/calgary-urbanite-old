@@ -1,6 +1,6 @@
 ---
 title: "Green Peace and the Oil Sands: Together At Last"
-image:
+image: stop_tar_sands.jpg
 ---
 <p>Hey, so guess what I did today? I dug up some <a href="http://en.wikipedia.org/wiki/Bitumen">bitumen</a> in the Fort McMurray Oil Sands. I've done it a bunch of times actually.&nbsp; I had surgery to remove a wisdom tooth yesterday morning and I still did it!&nbsp; You know, now that I think about it, I haven't even been north of Edmonton yet I've still managed to do it! You've done it too. I don't even know you, but I know you've done it. Greenpeace went up to Fort Mac to protest Oil Sands development, and you know what? They've dug up bitumen too.</p><!-- pagebreak -->
 <blockquote><img src="/file/post/green_peace_and_the_oil_sands/cranes.jpg" alt="" /><br />I try to keep this site Calgary focused, but I feel justified in turning out thoughts north, since the Oil Sands is reason for a lot of us to be here, and the reason Calgary is the city we know.</blockquote>

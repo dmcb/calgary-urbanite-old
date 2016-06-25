@@ -1,6 +1,6 @@
 ---
 title: "Green Drinks: Celebrate good times!"
-image:
+image: stepitup.jpg
 ---
 <p>It's funny the impression you can have of the world around you when you spend more time making assumptions than actually discovering that world.&nbsp; The phrase 'to assume makes an ass of you and me' couldn't be more true.&nbsp; Assuming things has definitely made an ass out of me.&nbsp; There, I admitted it, I'm an ass.&nbsp; Or at least I was.&nbsp; The assumption I used to make?&nbsp; That Calgary has a shriveled, sorry excuse for an environmentally minded community.&nbsp; Well, I'm happy to say that I'm wrong (another rare admittance I might add).</p><!-- pagebreak -->
 <p>It may be a smaller community than it should be, but it's far from sorry.&nbsp; Calgary's environmentally minded community is thriving, vibrant and diverse.&nbsp; What it might lack in size it makes up for in determination and creativity.&nbsp; The community's demographic isn't simply just unemployed tree huggers, and we won't be marginalized as such.&nbsp; It's made up of all sorts of individuals, from the expected environmental science crowd, to web developers (had to give a shout out to my peeps), accountants, engineers, scientists, urban planners, managers, students and many more.&nbsp; Best of all, being in Calgary, this community has something to prove and as a result it is quite exciting to be a part of.</p>

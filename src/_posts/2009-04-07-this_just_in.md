@@ -1,6 +1,6 @@
 ---
 title: "This just in: Calgary has no culture"
-image:
+image: folk_fest.jpg
 ---
 <p>I think we've all said it before: Calgary has no culture.&nbsp; I've been guilty of this before and sometimes I'm still guilty of it, but consecutive snow storms on the very precious weekends we get can make even the best of us a little jaded.&nbsp; Sometimes it even feels good to say it, like it's a battle between you and the city and you're getting the upper hand.&nbsp; <a href="http://www.youtube.com/watch?v=raw3bGM4Z10">Somehow, somewhere, someway</a>, I realized I didn't get the upperhand cursing at Calgary.&nbsp; Infact, I realized by saying Calgary has no culture, I was criticizing myself.&nbsp; It's all of us together that make up Calgary's culture.&nbsp; So what kind of culture do we have?</p>
 <!-- pagebreak -->

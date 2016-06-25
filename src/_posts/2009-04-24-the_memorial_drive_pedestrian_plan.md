@@ -1,6 +1,6 @@
 ---
 title: "The Memorial Drive Pedestrian Plan"
-image:
+image: memorial_drive.jpg
 ---
 <p>It seems that it's way easier to stick to the status quo instead of challenging it.&nbsp; But I don't like to trust people unwilling to challenge the status quo, the ones who frequently tell us to 'stay the course', because to stay the course would imply that the course we are on can't be improved.&nbsp; Now, that isn't to say I'm up for change just for the sake of change, but when someone presents an idea that's forward thinking and refreshing, with little to no down side, I'm in full support.</p><!-- pagebreak -->
 <p>The city is proposing using a portion of Memorial Drive as a pedestrian area for a few Sundays in August.&nbsp; This idea has many critics and even more people confused about the potential benefit of the idea, but regardless, it is definitely the type of forward thinking Calgary needs if we want to improve as a city.</p>

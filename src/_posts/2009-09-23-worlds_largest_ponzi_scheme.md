@@ -1,6 +1,6 @@
 ---
 title: "The World's Largest Ponzi Scheme"
-image:
+image: foodchain.jpg
 ---
 <p>So, another week at CalgaryUrbanite, another revelation I have to share with everyone. Last week I mentioned how we are all driving the Oil Sands business whether we like developing them or not.&nbsp; Well this week I drop an even bigger bombshell (We are entering the Fall sweeps season after all).&nbsp; Forget the <a href="http://www.canada.com/technology/gaming/Police+allege+Ponzi+type+scheme+thwarted+thousands+Calgary/2014608/story.html">latest Ponzi-Scheme bust in Calgary</a>, we are part of the biggest Ponzi scheme of all time.</p>
 <p>The Ponzi scheme according to Wikipedia (so yes, there might be a few swear words vandalized into the definition) is:</p>
