@@ -11,7 +11,7 @@ title: Blog
     Posted on {{ post.date | date: "%B %-d, %Y" }}{% if post.author %}, a guest post by {{ post.author }}{% endif %}
   </h5>
   <a href="{{ post.url }}">
-    {% if post.image %}<img src="/file/{{ post.url }}{{ post.image }}" class="postimage" alt="{{ post.title }}" />{% endif %}
+    {% if post.image %}<img src="/file{{ post.url }}{{ post.image }}" class="postimage" alt="{{ post.title }}" />{% endif %}
   </a>
   {% assign description = post.content | split: '<!-- pagebreak -->' %}
   <p>{{ description[0] }}<p>
