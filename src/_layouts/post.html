@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<div class="post">
+    <h5>
+        Posted on {{ page.date | date: "%B %-d, %Y" }}{% if page.author %}, a guest post by {{ author }}{% endif %}
+    </h5>
+    <hr/>
+    {{ content }}
+</div>

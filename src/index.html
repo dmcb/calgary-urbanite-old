@@ -8,12 +8,13 @@ title: Blog
     <a href="{{ post.url }}">{{ post.title }}</a>
   </h2>
   <h5>
-    Posted on {{ post.date | date: "%B %-d, %Y" }}{% if post.author %} by {{ author }}{% endif %}
+    Posted on {{ post.date | date: "%B %-d, %Y" }}{% if post.author %}, a guest post by {{ author }}{% endif %}
   </h5>
   <a href="{{ post.url }}">
     {% if post.image %}<img src="{{ post.image }}" class="postimage" alt="{{ post.title }}" />{% endif %}
   </a>
-  <p>{{ post.description }}<p>
+  {% assign description = post.content | split: '<!-- pagebreak -->' %}
+  <p>{{ description[0] }}<p>
   <p>
     <a href="{{ post.url }}">Continue reading</a>
   </p>
