@@ -2,3 +2,6 @@
 title: "Save the Beat Niq"
 image:
 ---
+<p>The Beat Niq needs your help.&nbsp; They're in tough times financially and are kicking off a gala event to save their venue from going out of business.&nbsp; I thoroughly you encourage yourself to go down there and help out. Gerry H&eacute;bert explains the event:</p><!-- pagebreak -->
+<blockquote>Over the past week in consultation with several business partners, staff and key supporters we have been formulating a last ditch effort to save the club. This message is a call for help to our many great friends and fans that have supported our venue for the last 14 years. We have set September 15 as a deadline to raise enough funds to keep the doors open. It is our hope that through memberships, donations and ticket sales for a major Jazz Gala scheduled for Sept. 10/11/ 12, we will achieve this target. Initially we need to raise at least $60,000 but along with the membership drive and Gala event, we will announce a corporate and personal donation campaign which will allow a reserve fund to be established and allow improved promotion, technical and management support.</blockquote>
+<p>More deets at <a href="http://www.beatniq.com/">http://www.beatniq.com/</a></p>
