@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+    <div class="wrapper">
+      <div class="content">
+
+        {% include header.html %}
+
+        <div class="leftblock">
+          <div class="block_title">
+            <h1>{{ page.title }}</h1>
+          </div>
+          
+          <div class="bottom_left">
+            <div class="bottom_right">
+              <div class="top_left">
+                <div class="top_right">
+                  {{ content }}
+                </div>
+              </div>
+            </div>          
+          </div>
+        </div>
+        
+        {% if page.next or page.previous %}
+        <div class="rightblock">
+          <div class="sidebar">
+            <h2>Navigation</h2>
+            <ul>
+              <li><a href="http://old.calgaryurbanite.com/blog">Featured posts (26)</a></li>
+              <li><a href="http://old.calgaryurbanite.com/blog/all">All posts (30)</a></li>
+            </ul>
+          </div>
+        </div>
+        {% endif %}
+
+        <div class="contentpadding">
+          &nbsp;
+        </div>
+
+        {% include footer.html %}
+        
+      </div>
+    </div>
+  </body>
+</html>
